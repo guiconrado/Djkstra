@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1415818568 source:c:\users\guilherme conrado\documents\heap minimo\queue.c
+	"queue.h"
+
+1415742946 c:\users\guilherme conrado\documents\heap minimo\queue.h
+
+1701430541 source:c:\users\guilherme conrado\documents\heap minimo\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	"DigraphLA.h"
+	<time.h>
+	<string.h>
+	<limits.h>
+
+1701408557 c:\users\guilherme conrado\documents\heap minimo\digraphla.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
