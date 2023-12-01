@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1415818568 source:c:\program files\codeblocks\projetos\dijkstra normal\queue.c
+	"queue.h"
+
+1415742946 c:\program files\codeblocks\projetos\dijkstra normal\queue.h
+
+1701396614 source:c:\program files\codeblocks\projetos\dijkstra normal\main.cpp
+	<iostream>
+	<stdlib.h>
+	"DigraphLA.h"
+	<time.h>
+	<string.h>
+	<limits.h>
+
+1701397091 c:\program files\codeblocks\projetos\dijkstra normal\digraphla.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
